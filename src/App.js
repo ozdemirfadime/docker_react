@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         I was developing gradually with feeature branch :)
+         I was developing gradually with feature branch :)
         </a>
       </header>
     </div>
